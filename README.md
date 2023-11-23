@@ -1,6 +1,4 @@
-# Your Name's Portfolio
-
-Welcome to my portfolio! This repository showcases my projects and provides information about my skills and experiences.
+##Welcome to my portfolio! This repository showcases my projects and provides information about my skills and experiences.
 
 ## About Me
 
